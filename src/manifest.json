@@ -5,7 +5,13 @@
   "description": "Create Mydealz deal alarms from product names on test.de result pages.",
   "action": {
     "default_title": "Test.de -> Mydealz",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.svg",
+      "32": "icons/icon.svg",
+      "48": "icons/icon.svg",
+      "96": "icons/icon.svg"
+    }
   },
   "options_ui": {
     "page": "options.html",
@@ -15,6 +21,12 @@
     "gecko": {
       "id": "mydealz-warentest@local"
     }
+  },
+  "icons": {
+    "16": "icons/icon.svg",
+    "32": "icons/icon.svg",
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
   },
   "background": {
     "scripts": ["background.js"]

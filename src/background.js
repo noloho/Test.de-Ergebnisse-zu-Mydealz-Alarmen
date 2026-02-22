@@ -101,6 +101,62 @@ async function createAlert(keyword, settings) {
   return { ok: true, keyword };
 }
 
+function normalizeTestDeKeyword(text) {
+  return text.replace(/\s+/g, " ").trim();
+}
+
+function collectTestdeKeywordsFromDoc(doc) {
+  const items = Array.from(doc.querySelectorAll("li.product-list-item"));
+  const keywords = [];
+  const seen = new Set();
+
+  for (const item of items) {
+    const brandEl = item.querySelector(".product-list-item__company-link");
+    const modelEl = item.querySelector(".product-list-item__name-link");
+    const brand = brandEl ? normalizeTestDeKeyword(brandEl.textContent || "") : "";
+    const model = modelEl ? normalizeTestDeKeyword(modelEl.textContent || "") : "";
+
+    if (!model) continue;
+
+    let keyword = model;
+    if (brand) {
+      const lowerBrand = brand.toLowerCase();
+      const lowerModel = model.toLowerCase();
+      keyword = lowerModel.startsWith(lowerBrand) ? model : `${brand} ${model}`;
+    }
+
+    keyword = normalizeTestDeKeyword(keyword);
+    if (!keyword || seen.has(keyword)) continue;
+    seen.add(keyword);
+    keywords.push(keyword);
+  }
+
+  return keywords;
+}
+
+async function fetchTestdePage(url) {
+  const res = await fetch(url, {
+    method: "GET",
+    credentials: "include",
+    headers: {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  });
+
+  if (!res.ok) {
+    return { ok: false, url, error: `HTTP ${res.status}` };
+  }
+
+  const html = await res.text();
+  if (typeof DOMParser === "undefined") {
+    return { ok: false, url, error: "DOMParser unavailable" };
+  }
+
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  const keywords = collectTestdeKeywordsFromDoc(doc);
+  return { ok: true, url, keywords };
+}
+
 async function createAlertsSequential(keywords, settings) {
   const results = [];
   for (const keyword of keywords) {
@@ -128,3 +184,26 @@ api.runtime.onMessage.addListener((msg, sender, sendResponse) => {
 
   return true;
 });
+
+api.runtime.onMessage.addListener((msg, sender, sendResponse) => {
+  if (!msg || msg.type !== "fetch-testde-pages") return;
+
+  (async () => {
+    const urls = Array.isArray(msg.urls) ? msg.urls : [];
+    const results = [];
+    for (const url of urls) {
+      // eslint-disable-next-line no-await-in-loop
+      const res = await fetchTestdePage(url);
+      results.push(res);
+      // eslint-disable-next-line no-await-in-loop
+      await new Promise((r) => setTimeout(r, 250));
+    }
+    return results;
+  })()
+    .then((results) => sendResponse({ ok: true, results }))
+    .catch((err) => sendResponse({ ok: false, error: err.message || String(err) }));
+
+  return true;
+});
+
+// Auto-open popup removed; Firefox does not allow opening action popups programmatically.

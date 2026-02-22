@@ -66,8 +66,33 @@ async function getActiveTab() {
   return tabs[0];
 }
 
+function getTargetTabIdFromUrl() {
+  try {
+    const url = new URL(window.location.href);
+    const tabId = url.searchParams.get("tabId");
+    if (!tabId) return null;
+    const num = Number(tabId);
+    return Number.isFinite(num) ? num : null;
+  } catch {
+    return null;
+  }
+}
+
+async function getTargetTab() {
+  const tabId = getTargetTabIdFromUrl();
+  if (tabId !== null) {
+    try {
+      const tab = await api.tabs.get(tabId);
+      return tab || null;
+    } catch {
+      // fall back to active tab
+    }
+  }
+  return getActiveTab();
+}
+
 async function scanTestde() {
-  const tab = await getActiveTab();
+  const tab = await getTargetTab();
   if (!tab || !tab.id || !tab.url) {
     setStatus("No active tab.");
     return;
@@ -87,9 +112,49 @@ async function scanTestde() {
   }
 
   const keywords = normalizeList(response.keywords || []);
-  await storageSet({ [STORAGE_KEYS.lastScan]: keywords });
+  let allKeywords = keywords;
+
+  const includePages = document.getElementById("include-pages").checked;
+  if (includePages) {
+    const pagination = response.pagination || null;
+    let otherUrls = [];
+    if (pagination && pagination.basePath) {
+      const totalCount = Number(pagination.totalCount || 0);
+      const pageCount = totalCount > 0 ? Math.ceil(totalCount / 15) : 1;
+      const basePath = pagination.basePath;
+      const search = pagination.search || "";
+      for (let i = 2; i <= pageCount; i += 1) {
+        const url = new URL(tab.url);
+        url.pathname = `${basePath}${i}/`;
+        url.search = search;
+        otherUrls.push(url.toString());
+      }
+    }
+    otherUrls = normalizeList(otherUrls).filter((u) => u !== tab.url);
+    if (otherUrls.length) {
+      setStatus(`Fetching ${otherUrls.length} additional pages...`);
+      const fetchRes = await api.runtime.sendMessage({
+        type: "fetch-testde-pages",
+        urls: otherUrls
+      });
+
+      if (!fetchRes || !fetchRes.ok) {
+        setStatus("Failed to fetch additional pages.");
+      } else {
+        const fetched = [];
+        for (const item of fetchRes.results || []) {
+          if (item && item.ok && Array.isArray(item.keywords)) {
+            fetched.push(...item.keywords);
+          }
+        }
+        allKeywords = normalizeList([...keywords, ...fetched]);
+      }
+    }
+  }
+
+  await storageSet({ [STORAGE_KEYS.lastScan]: allKeywords });
   await refreshUI();
-  setStatus(`Scanned ${keywords.length} products.`);
+  setStatus(`Scanned ${allKeywords.length} products.`);
 }
 
 async function createAlerts() {

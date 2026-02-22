@@ -27,11 +27,35 @@ function collectProductKeywords() {
   return keywords;
 }
 
+function collectPaginationUrls() {
+  const current = new URL(window.location.href);
+  const basePath = current.pathname.replace(/\/tabelle\/\d+\/?/, "/tabelle/");
+  const currentSearch = current.search || "";
+
+  let totalCount = null;
+  const title = document.querySelector("#primary #filter-result-title h2");
+  if (title && title.textContent) {
+    const match = title.textContent.replace(/\s+/g, " ").match(/(\d+)/);
+    if (match) {
+      const num = Number(match[1]);
+      if (Number.isFinite(num)) totalCount = num;
+    }
+  }
+
+  return {
+    basePath,
+    search: currentSearch,
+    currentUrl: current.toString(),
+    totalCount
+  };
+}
+
 const api = typeof browser !== "undefined" ? browser : chrome;
 
 api.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   if (!msg || msg.type !== "collect-testde-products") return;
   const keywords = collectProductKeywords();
-  sendResponse({ ok: true, keywords });
+  const pagination = collectPaginationUrls();
+  sendResponse({ ok: true, keywords, pagination });
   return true;
 });
