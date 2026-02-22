@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Test.de -> Mydealz</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <div class="title">Test.de → Mydealz</div>
+        <div class="subtitle">Create deal alarms from test.de products.</div>
+      </header>
+
+      <section class="panel">
+        <button id="scan-testde" class="button">Scan test.de page</button>
+
+        <label class="checkbox">
+          <input type="checkbox" id="dry-run" checked />
+          Dry run (only show list)
+        </label>
+      </section>
+
+      <section class="panel">
+        <div class="row">
+          <div class="label">Found products</div>
+          <div id="found-count" class="value">0</div>
+        </div>
+        <div class="row">
+          <div class="label">To create</div>
+          <div id="create-count" class="value">0</div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <button id="create-alerts" class="button button--primary">
+          Create deal alarms
+        </button>
+        <div id="status" class="status"></div>
+      </section>
+
+      <section class="panel list-panel">
+        <div class="label">Preview</div>
+        <ul id="preview-list" class="list"></ul>
+      </section>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

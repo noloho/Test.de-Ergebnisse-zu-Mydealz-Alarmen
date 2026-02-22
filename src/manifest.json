@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "description": "Create Mydealz deal alarms from product names on test.de result pages.",
   "action": {
-    "default_title": "Test.de -> Mydealz"
+    "default_title": "Test.de -> Mydealz",
+    "default_popup": "popup.html"
   },
   "options_ui": {
     "page": "options.html",
@@ -22,7 +23,8 @@
     "storage",
     "cookies",
     "activeTab",
-    "scripting"
+    "scripting",
+    "tabs"
   ],
   "host_permissions": [
     "*://test.de/*",

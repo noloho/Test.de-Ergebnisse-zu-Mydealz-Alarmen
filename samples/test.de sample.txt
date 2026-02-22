@@ -1,0 +1,4989 @@
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/9ti/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/9ti/hauptbild_original/hauptbild_original.jpg" class="image" alt="Siemens SN57TS00CE Frontansicht" data-subtitle="Frontansicht">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Siemens</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Siemens: SN57TS00CE" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!9Ti/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SN57TS00CE</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">1047,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312509Ti">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!9Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!9Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/9/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/9/hauptbild_original/hauptbild_original.jpg" class="image" alt="Siemens SN87TX00CE Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Siemens</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Siemens: SN87TX00CE" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!9/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SN87TX00CE</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">960,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312509">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!9&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!9&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/12/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/12/hauptbild_original/hauptbild_original.jpg" class="image" alt="Bosch SBV6ZCX16E Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Bosch</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Bosch: SBV6ZCX16E" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!12/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SBV6ZCX16E</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">770,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_32000002913012">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!12&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!12&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,3)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/5ti/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/5ti/hauptbild_original/hauptbild_original.jpg" class="image" alt="Bosch SMI6ZCS16E Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Bosch</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Bosch: SMI6ZCS16E" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!5Ti/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SMI6ZCS16E</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">761,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312505Ti">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!5Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!5Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/11/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/11/hauptbild_original/hauptbild_original.jpg" class="image" alt="Bosch SMS6ZCI16E Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Bosch</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Bosch: SMS6ZCI16E" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!11/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SMS6ZCI16E</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">780,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Standgeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_32000003125011">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!11&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!11&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,3)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/5/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/5/hauptbild_original/hauptbild_original.jpg" class="image" alt="Bosch SMV6ZCX16E Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Bosch</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Bosch: SMV6ZCX16E" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!5/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SMV6ZCX16E</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">750,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312505">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!5&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!5&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/11/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/11/hauptbild_original/hauptbild_original.jpg" class="image" alt="Neff S297TCX00E Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Neff</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Neff: S297TCX00E" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!11/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">S297TCX00E</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">875,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_32000002913011">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!11&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!11&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/8ti/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/8ti/hauptbild_original/hauptbild_original.jpg" class="image" alt="Siemens SN55ZS07CE Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Siemens</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Siemens: SN55ZS07CE" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!8Ti/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SN55ZS07CE</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">776,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291308Ti">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!8Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!8Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/8/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/8/hauptbild_original/hauptbild_original.jpg" class="image" alt="Siemens SN65ZX07CE Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Siemens</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Siemens: SN65ZX07CE" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!8/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">SN65ZX07CE</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">750,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291308">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!8&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!8&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/7ti/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/7ti/hauptbild_original/hauptbild_original.jpg" class="image" alt="Miele G 7131 SCi AD 125 Edition Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Miele</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Miele: G 7131 SCi AD 125 Edition" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!7Ti/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">G 7131 SCi AD 125 Edition</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">1135,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312507Ti">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!7Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!7Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,9)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,4)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/7/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/7/hauptbild_original/hauptbild_original.jpg" class="image" alt="Miele G 7191 SCVi AD 125 Edition Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Miele</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Miele: G 7191 SCVi AD 125 Edition" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!7/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">G 7191 SCVi AD 125 Edition</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">1259,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312507">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!7&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!7&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,9)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,4)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/12/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/12/hauptbild_original/hauptbild_original.jpg" class="image" alt="Miele G 7600 SC AutoDos Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Miele</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Miele: G 7600 SC AutoDos" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!12/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">G 7600 SC AutoDos</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">1489,00</span>
+<span class="is-measure">&nbsp;Euro</span><span tabindex="0" title="Preis laut An­bie­ter-Web­sei­te." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>2</span>
+    </span>
+<em class="is-date"> (Stand: 02.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Standgeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_32000003125012">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!12&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!12&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/8/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/8/hauptbild_original/hauptbild_original.jpg" class="image" alt="Neff S157ZCX01E N70 Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Neff</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Neff: S157ZCX01E N70" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!8/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">S157ZCX01E N70</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">847,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312508">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!8&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!8&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/5ti/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/5ti/hauptbild_original/hauptbild_original.jpg" class="image" alt="Constructa CG6IS01EBD Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Constructa</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Constructa: CG6IS01EBD" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!5Ti/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">CG6IS01EBD</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">599,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 02.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291305Ti">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!5Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!5Ti&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,8)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/5/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/5/hauptbild_original/hauptbild_original.jpg" class="image" alt="Constructa CG6VX01EBD Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Constructa</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Constructa: CG6VX01EBD" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!5/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">CG6VX01EBD</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">599,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291305">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!5&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!5&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,3)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,8)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/9/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/9/hauptbild_original/hauptbild_original.jpg" class="image" alt="Ikea Torsboda Art.-Nr. 405.480.88 Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Ikea</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Ikea: Torsboda Art.-Nr. 405.480.88" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!9/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">Torsboda Art.-Nr. 405.480.88</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">599,00</span>
+<span class="is-measure">&nbsp;Euro</span><span tabindex="0" title="Preis laut An­bie­ter-Web­sei­te." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>2</span>
+    </span>
+<em class="is-date"> (Stand: 02.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291309">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!9&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!9&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2  product-list-item-results__cell--header">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,9)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/6/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/6/hauptbild_original/hauptbild_original.jpg" class="image" alt="Gorenje GV663C60 Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Gorenje</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Gorenje: GV663C60" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!6/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">GV663C60</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">560,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291306">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!6&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!6&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3  product-list-item-results__cell--header">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,1)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/3/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000029130/v3/3/hauptbild_original/hauptbild_original.jpg" class="image" alt="Beko BDIN38440 Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Beko</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Beko: BDIN38440" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000029130!3/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">BDIN38440</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">469,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 08/2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">18.07.2024</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000291303">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!3&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000029130!3&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3  product-list-item-results__cell--header">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,0)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-1 ">
+					<span class="is-uppercase">sehr gut</span><span> (1,5)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/6/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/6/hauptbild_original/hauptbild_original.jpg" class="image" alt="Gorenje GV673B60 Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Gorenje</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Gorenje: GV673B60" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!6/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">GV673B60</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">673,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Einbaugeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_3200000312506">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!6&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!6&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3  product-list-item-results__cell--header">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,2)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,1)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (3,5)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,5)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+							
+
+
+<li class="product-list-item product-list-item--access">
+	<div class="product-list-item__main-wrapper">
+		<div class="product-list-item__main product-list-item__main--image js-clickable">
+			
+
+
+    <button tabindex="-1" class="product-list-item__image btn--no-style js-clickable__trigger">
+        <picture class="picture picture--no-width">
+	
+    
+      <source media="(min-width: 1px)" srcset="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/10/hauptbild_original/hauptbild_original;w200.webp" type="image/webp">
+    
+  
+	<img src="https://cdn.test.de/file/image/ct/produktbilder/320000031250/v3/10/hauptbild_original/hauptbild_original.jpg" class="image" alt="Bauknecht B7F HS51 X Frontansicht" data-subtitle="Frontansicht" loading="lazy">
+</picture>
+
+    </button>
+
+
+			
+
+<div role="heading" aria-level="4" class="product-list-item__header p-text p-text--large">
+	<div>
+		
+		    
+                <button tabindex="-1" class="link btn--no-style product-list-item__company-link js-clickable__trigger">Bauknecht</button>
+            
+        
+	</div>
+	<div>
+		
+            
+                <a aria-label="Bauknecht: B7F HS51 X" class="link product-list-item__name-link js-clickable__target" href="/Geschirrspueler-im-Test-4685888-detail/320000031250!10/" data-querystring="P29yaWdpbj1MaXN0JmZpbHRlcj1DVF9fX3RleHRlcXVhbF9fX25vY2hFcmhhZWx0bGljaCU1RUltJTIwSGFuZGVsJTIwZXJoJUMzJUE0bHRsaWNoJnNvcnQ9Z2VzYW10RXJnZWJuaXM=">B7F HS51 X</a>
+            
+        
+	</div>
+</div>
+
+			
+
+
+
+			
+				<ul class="p-list p-list--plain product-list-item-groups">
+					
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Mitt­lerer Onlinepreis:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="is-price">639,00</span>
+<span class="is-measure">&nbsp;Euro</span>
+<em class="is-date"> (Stand: 21.02.2026)</em>
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Unter­suchungs­programm<span tabindex="0" title="Die Stiftung Warentest entwickelt ihre Testmethoden regelmäßig weiter. Aus diesem Grund sind nicht alle Testurteile in dieser Datenbank vollständig miteinander vergleichbar. Details zu den Testmethoden finden Sie im Artikel &quot;So haben wir getestet&quot;." data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>1</span>
+    </span>:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Geschirr­spül­maschinen 04/2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Produktgruppe:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">Standgeräte, 60 cm breit</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+
+<li class="product-list-item-groups__group">
+	
+	<dl class="p-definition-list">
+			<div class="p-definition-list__item product-list-item-groups__item">
+				<dt class="p-definition-list__term product-list-item-groups__key">Online-Veröffent­lichung:&nbsp;
+				</dt>
+				<dd class="p-definition-list__definition product-list-item-groups__value">
+					
+
+<span>
+
+		
+			<span class="">25.03.2025</span>
+
+
+</span>
+</dd>
+			</div>
+		
+	</dl>
+</li>
+
+				</ul>
+			
+			
+				
+
+
+<div class="product-list-item-functions
+         paywall-content" data-nosnippet="" id="pdb_32000003125010">
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--secondary btn--small product-list-item-functions__button product-list-item-functions__button--remove" data-track-value="Produkt_aus_Vergleich_entfernen" title="Produkt aus dem Vergleich entfernen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!10&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt aus dem Vergleich entfernen." data-icon="close" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--close" data-icon="close"><use class="icon__use" xlink:href="#ic_close"></use></svg>﻿Entfernen</a>
+	<a role="button" tabindex="0" href="#" class="link js-dylolink btn btn--primary btn--small product-list-item-functions__button product-list-item-functions__button--add" data-track-value="Produkt_vergleichen" title="Produkt zum Vergleich hinzufügen." data-dylo-src="/module-relaunch/ProductComparisonPromo/?addorremoveproduct=320000031250!10&amp;productcategoryid=geschirrspuelmaschinenAb2013&amp;themaid=4685888&amp;filter=CT___textequal___nochErhaeltlich%5EIm%20Handel%20erh%C3%A4ltlich&amp;sort=gesamtErgebnis" data-tooltip="info" aria-label="Produkt zum Vergleich hinzufügen." data-icon="add" data-dylo="click" data-dylo-update=".product-comparison-promo" data-dylo-mode="replace" data-dylo-registered="true"><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg>﻿Vergleichen</a>
+	<button class="btn btn--primary btn--disabled btn--small product-list-item-functions__button product-list-item-functions__button--limit" title="Sie haben das Maximum von 20 Produkten erreicht." tabindex="0" data-tooltip="info" disabled=""><svg aria-hidden="true" role="img" class="icon icon--add" data-icon="add"><use class="icon__use" xlink:href="#ic_add"></use></svg> Vergleichen</button>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="product-list-item__details product-list-item__details--access  paywall-content" data-nosnippet="">
+		
+			
+
+
+	<table class="p-table p-table--fullsize product-list-item-results">
+		<tbody class="p-table__body">
+		
+			<tr class="product-list-item-results__row product-list-item-results__row--header">
+				<td class="p-table__td product-list-item-results__cell product-list-item-results__cell--header">
+                    
+                        <span class="product-list-item-results__label">
+                            <span><svg aria-hidden="true" role="img" class="icon icon--t-logo icon--brand" data-icon="t-logo"><use class="icon__use" xlink:href="#ic_t-logo"></use></svg>&nbsp;</span>
+                            <span>Qualitäts­urteil</span>
+                        </span>
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3  product-list-item-results__cell--header">
+					<span class="is-uppercase">befriedigend</span><span> (2,9)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Spar­programm (Eco)
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,6)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Kurz­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-3 ">
+					<span class="is-uppercase">befriedigend</span><span> (2,8)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Auto­matik­programm
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-4 ">
+					<span class="is-uppercase">ausreichend</span><span> (4,0)</span><span tabindex="0" title="Führt zur Abwertung" data-tooltip="info" class="p-footnote">
+        <span><span class="visually-hidden">Fußnote: </span>*</span>
+    </span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Hand­habung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,4)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Sicherheit und Verarbeitung
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (1,7)</span>
+				</td>
+			</tr>
+		
+			<tr class="product-list-item-results__row">
+				<td class="p-table__td product-list-item-results__cell">
+                    
+                        Geräusch
+                    
+				</td>
+				<td class="p-table__td p-table__td--40 product-list-item-results__cell product-list-item-results__cell--highlight-2 ">
+					<span class="is-uppercase">gut</span><span> (2,0)</span>
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+
+			
+		
+	</div>
+</li>
+
+						
+					

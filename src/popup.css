@@ -1,0 +1,117 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f6f6f6;
+  color: #111;
+}
+
+.container {
+  width: 320px;
+  padding: 14px;
+  box-sizing: border-box;
+}
+
+.header {
+  margin-bottom: 10px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.subtitle {
+  font-size: 12px;
+  color: #666;
+}
+
+.panel {
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  margin-bottom: 10px;
+}
+
+.button {
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.button + .button {
+  margin-top: 8px;
+}
+
+.button--primary {
+  background: #ff6b00;
+  border-color: #ff6b00;
+  color: #fff;
+}
+
+.button--secondary {
+  background: #f5f5f5;
+}
+
+.checkbox {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  font-size: 12px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+.label {
+  color: #666;
+}
+
+.value {
+  font-weight: 600;
+}
+
+.status {
+  margin-top: 8px;
+  font-size: 12px;
+  color: #333;
+  min-height: 16px;
+}
+
+.list-panel {
+  max-height: 200px;
+  overflow: auto;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 8px 0 0 0;
+  display: grid;
+  gap: 6px;
+}
+
+.list li {
+  background: #f9f9f9;
+  border-radius: 6px;
+  padding: 6px 8px;
+  font-size: 12px;
+  border: 1px solid #eee;
+}
