@@ -1,0 +1,55 @@
+{
+  "manifest_version": 3,
+  "name": "Test.de -> Mydealz Deal-Alarme",
+  "version": "0.1.0",
+  "description": "Erstellt Mydealz-Deal-Alarme aus Produktnamen auf test.de-Ergebnislisten.",
+  "action": {
+    "default_title": "Test.de -> Mydealz",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.svg",
+      "32": "icons/icon.svg",
+      "48": "icons/icon.svg",
+      "96": "icons/icon.svg"
+    }
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mydealz-warentest@local",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "icons": {
+    "16": "icons/icon.svg",
+    "32": "icons/icon.svg",
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "storage",
+    "cookies",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://test.de/*",
+    "*://*.test.de/*",
+    "*://www.mydealz.de/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://test.de/*", "*://*.test.de/*"],
+      "js": ["content/testde.js"]
+    }
+  ]
+}

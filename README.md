@@ -13,6 +13,22 @@ Firefox-Erweiterung zum Erstellen von Mydealz-Deal-Alarmen aus Produktnamen auf 
 2. Klicke auf **„Load Temporary Add-on…“**
 3. Wähle `src/manifest.json`
 
+## Builds für Stores
+Es gibt getrennte Manifeste für Firefox und Chromium-basierte Browser.
+
+### Build erstellen
+```powershell
+.\build.ps1
+```
+Ergebnis:
+- `dist/firefox/` (für Firefox Add-ons)
+- `dist/chromium/` (für Chrome Web Store, Edge Add-ons, Brave, Vivaldi)
+
+### Store-Hinweise
+- **Firefox**: ZIP aus `dist/firefox/` hochladen.
+- **Chrome/Edge/Brave/Vivaldi**: ZIP aus `dist/chromium/` hochladen.
+- **Safari / iOS / Mobile**: Nicht unterstützt ohne größere Umstellung (Safari Web Extension, iOS Content-Blocker/Limitierungen).
+
 ## Nutzung
 1. Öffne eine test.de-Ergebnisseite (ggf. mit Filtern).
 2. Öffne das Erweiterungs-Popup über das Symbol in der Toolbar.
@@ -29,3 +45,6 @@ In den Einstellungen kannst du u. a. die Temperatur sowie Min-/Max-Preis und Ben
 
 ## Screenshots
 Werden später ergänzt.
+
+## Datenschutz
+Siehe `PRIVACY_POLICY.md`.
