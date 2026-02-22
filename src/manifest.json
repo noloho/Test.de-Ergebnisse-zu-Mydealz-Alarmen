@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Test.de -> Mydealz Deal Alarms",
+  "name": "Test.de -> Mydealz Deal-Alarme",
   "version": "0.1.0",
-  "description": "Create Mydealz deal alarms from product names on test.de result pages.",
+  "description": "Erstellt Mydealz-Deal-Alarme aus Produktnamen auf test.de-Ergebnislisten.",
   "action": {
     "default_title": "Test.de -> Mydealz",
     "default_popup": "popup.html",

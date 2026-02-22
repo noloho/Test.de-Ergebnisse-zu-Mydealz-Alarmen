@@ -1,52 +1,52 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Test.de -> Mydealz</title>
+    <title>Test.de -&gt; Mydealz</title>
     <link rel="stylesheet" href="popup.css" />
   </head>
   <body>
     <main class="container">
       <header class="header">
-        <div class="title">Test.de → Mydealz</div>
-        <div class="subtitle">Create deal alarms from test.de products.</div>
+        <div class="title">Test.de -&gt; Mydealz</div>
+        <div class="subtitle">Deal-Alarme aus test.de-Produkten erstellen.</div>
       </header>
 
       <section class="panel">
-        <button id="scan-testde" class="button">Scan test.de page</button>
+        <button id="scan-testde" class="button">test.de-Seite scannen</button>
 
         <label class="checkbox">
           <input type="checkbox" id="dry-run" checked />
-          Dry run (only show list)
+          Probelauf (nur Liste anzeigen)
         </label>
 
         <label class="checkbox">
           <input type="checkbox" id="include-pages" checked />
-          Include all pages
+          Alle Seiten einbeziehen
         </label>
       </section>
 
       <section class="panel">
         <div class="row">
-          <div class="label">Found products</div>
+          <div class="label">Gefundene Produkte</div>
           <div id="found-count" class="value">0</div>
         </div>
         <div class="row">
-          <div class="label">To create</div>
+          <div class="label">Zu erstellen</div>
           <div id="create-count" class="value">0</div>
         </div>
       </section>
 
       <section class="panel">
         <button id="create-alerts" class="button button--primary">
-          Create deal alarms
+          Deal-Alarme erstellen
         </button>
         <div id="status" class="status"></div>
       </section>
 
       <section class="panel list-panel">
-        <div class="label">Preview</div>
+        <div class="label">Vorschau</div>
         <ul id="preview-list" class="list"></ul>
       </section>
     </main>

@@ -94,11 +94,11 @@ async function getTargetTab() {
 async function scanTestde() {
   const tab = await getTargetTab();
   if (!tab || !tab.id || !tab.url) {
-    setStatus("No active tab.");
+    setStatus("Kein aktiver Tab.");
     return;
   }
   if (!/https?:\/\/(www\.)?test\.de\//i.test(tab.url)) {
-    setStatus("Open a test.de results page first.");
+    setStatus("Bitte zuerst eine test.de-Ergebnisseite öffnen.");
     return;
   }
 
@@ -107,7 +107,7 @@ async function scanTestde() {
   });
 
   if (!response || !response.ok) {
-    setStatus("Failed to scan test.de page.");
+    setStatus("Scannen der test.de-Seite fehlgeschlagen.");
     return;
   }
 
@@ -132,14 +132,14 @@ async function scanTestde() {
     }
     otherUrls = normalizeList(otherUrls).filter((u) => u !== tab.url);
     if (otherUrls.length) {
-      setStatus(`Fetching ${otherUrls.length} additional pages...`);
+      setStatus(`Lade ${otherUrls.length} zusätzliche Seiten...`);
       const fetchRes = await api.runtime.sendMessage({
         type: "fetch-testde-pages",
         urls: otherUrls
       });
 
       if (!fetchRes || !fetchRes.ok) {
-        setStatus("Failed to fetch additional pages.");
+        setStatus("Zusätzliche Seiten konnten nicht geladen werden.");
       } else {
         const fetched = [];
         for (const item of fetchRes.results || []) {
@@ -154,7 +154,7 @@ async function scanTestde() {
 
   await storageSet({ [STORAGE_KEYS.lastScan]: allKeywords });
   await refreshUI();
-  setStatus(`Scanned ${allKeywords.length} products.`);
+  setStatus(`${allKeywords.length} Produkte gescannt.`);
 }
 
 async function createAlerts() {
@@ -162,25 +162,25 @@ async function createAlerts() {
   const found = normalizeList(lastScanKeywords);
 
   if (!found.length) {
-    setStatus("No scanned products yet.");
+    setStatus("Noch keine Produkte gescannt.");
     return;
   }
 
   if (document.getElementById("dry-run").checked) {
     updateCounts(found);
     renderPreview(found);
-    setStatus(`Dry run: ${found.length} alerts would be created.`);
+    setStatus(`Probelauf: ${found.length} Alarme würden erstellt werden.`);
     return;
   }
 
-  setStatus("Creating alerts...");
+  setStatus("Erstelle Deal-Alarme...");
   const response = await api.runtime.sendMessage({
     type: "create-alerts",
     keywords: found
   });
 
   if (!response || !response.ok) {
-    setStatus(`Failed: ${response ? response.error : "unknown error"}`);
+    setStatus(`Fehler: ${response ? response.error : "unbekannter Fehler"}`);
     return;
   }
 
@@ -188,8 +188,8 @@ async function createAlerts() {
   const failed = response.results.length - okResults.length;
   await refreshUI();
 
-  const failMsg = failed ? ` (${failed} failed)` : "";
-  setStatus(`Created ${okResults.length} alerts${failMsg}.`);
+  const failMsg = failed ? ` (${failed} fehlgeschlagen)` : "";
+  setStatus(`${okResults.length} Alarme erstellt${failMsg}.`);
 }
 
 async function refreshUI() {
@@ -205,14 +205,14 @@ document.getElementById("scan-testde").addEventListener("click", async () => {
   try {
     await scanTestde();
   } catch (err) {
-    setStatus(`Error: ${err.message || String(err)}`);
+    setStatus(`Fehler: ${err.message || String(err)}`);
   }
 });
 document.getElementById("create-alerts").addEventListener("click", async () => {
   try {
     await createAlerts();
   } catch (err) {
-    setStatus(`Error: ${err.message || String(err)}`);
+    setStatus(`Fehler: ${err.message || String(err)}`);
   }
 });
 

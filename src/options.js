@@ -69,7 +69,7 @@ document.getElementById("settings-form").addEventListener("submit", (e) => {
 
   storageSet(settings).then(() => {
     const status = document.getElementById("status");
-    status.textContent = "Saved.";
+    status.textContent = "Gespeichert.";
     setTimeout(() => (status.textContent = ""), 1500);
   });
 });

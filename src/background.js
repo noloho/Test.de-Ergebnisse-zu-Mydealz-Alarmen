@@ -65,12 +65,12 @@ async function createAlert(keyword, settings) {
   const xsrfTokenRaw = await getCookie("xsrf_t");
   const pepperSession = await getCookie("pepper_session");
   if (!pepperSession) {
-    return { ok: false, keyword, error: "Not logged in to mydealz.de" };
+    return { ok: false, keyword, error: "Nicht bei mydealz.de eingeloggt." };
   }
 
   const xsrfToken = xsrfTokenRaw ? xsrfTokenRaw.replace(/^"|"$/g, "") : null;
   if (!xsrfToken) {
-    return { ok: false, keyword, error: "Missing XSRF token cookie" };
+    return { ok: false, keyword, error: "XSRF-Token-Cookie fehlt." };
   }
 
   const payload = buildMutationPayload(keyword, settings);
@@ -95,7 +95,7 @@ async function createAlert(keyword, settings) {
 
   const json = await res.json();
   if (json.errors && json.errors.length) {
-    return { ok: false, keyword, error: json.errors[0].message || "GraphQL error" };
+    return { ok: false, keyword, error: json.errors[0].message || "GraphQL-Fehler" };
   }
 
   return { ok: true, keyword };
