@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Test.de -> Mydealz Deal Alarms",
+  "version": "0.1.0",
+  "description": "Create Mydealz deal alarms from product names on test.de result pages.",
+  "action": {
+    "default_title": "Test.de -> Mydealz"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mydealz-warentest@local"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "storage",
+    "cookies",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://test.de/*",
+    "*://*.test.de/*",
+    "*://www.mydealz.de/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://test.de/*", "*://*.test.de/*"],
+      "js": ["content/testde.js"]
+    }
+  ]
+}
