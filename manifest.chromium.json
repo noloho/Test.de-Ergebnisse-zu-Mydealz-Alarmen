@@ -30,7 +30,6 @@
     "storage",
     "cookies",
     "activeTab",
-    "scripting",
     "tabs"
   ],
   "host_permissions": [
